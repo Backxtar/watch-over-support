@@ -1,9 +1,8 @@
 ###### Juli 2023 Watch Over
 Watch Over<br />
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 ----------------
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)<br />
 
-**The best Overwatch 2 app!**  
 
 ###### 1. Table of Contents
 [Supported devices](#supported-devices)<br />
