@@ -10,7 +10,7 @@ Watch Over<br />
 
 ###### 2. Supported devices
 iOS (12.0 or higher)<br />
-Android(5.0 or higher)
+Android (5.0 or higher)
 
 ###### 3. License  
 
