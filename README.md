@@ -5,8 +5,8 @@ Watch Over<br />
 
 
 ###### 1. Table of Contents
-[Supported devices](#supported-devices)<br />
-[License](#license)
+[Supported devices](#2-supported-devices)<br />
+[License](#3-license)
 
 ###### 2. Supported devices
 iOS (12.0 or higher)<br />
