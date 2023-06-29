@@ -3,16 +3,15 @@
 
 **The best Overwatch 2 app!**  
 
-# Table of Contents
-1. [Supported devices](#supported-devices)  
-2. [License](#license)
+###### 1. Table of Contents
+[Supported devices](#supported-devices)<br />
+[License](#license)
 
-## Supported devices
-iOS (12.0+)
+###### 2. Supported devices
+iOS (12.0 or higher)<br />
+Android(5.0 or higher)
 
-Android(5.0+)
-
-## License  
+###### 3. License  
 
 The Apache License (Apache)
 
