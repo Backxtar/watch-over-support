@@ -41,7 +41,20 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 ###### 9. Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
-###### 10. Contact Us  
+###### 10. Copyright notice
+Overwatch™, all character and assets are copyright Blizzard Entertainment, Inc.
+
+®2016 Blizzard Entertainment, Inc. All rights reserved. Overwatch is a trademark or registered traidmark of Blizzard Entertainment, Inc. in the U.S. and or other countries.
+
+All trademarks referenced are the properties of the respective owners. This applicaiton does not claim othership of any Overwatch™ content.
+
+This application is not affiliated in any way with Blizzard Entertainment, Inc.
+
+App design and original written material © Backxtar (Jörg Quick).
+
+Any assets and references are intended under fair use per Blizzard's guidelines.
+
+###### 11. Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
 Contact Information:
 + Email: *joerg.quick@outlook.de* 
