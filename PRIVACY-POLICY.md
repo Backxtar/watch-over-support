@@ -43,5 +43,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ###### 10. Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:<br />
-Email: *joerg.quick@outlook.de* 
+Contact Information:
++ Email: *joerg.quick@outlook.de* 
