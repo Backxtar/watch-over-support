@@ -1,6 +1,7 @@
 ###### Juli 2023 Watch Over
 Terms Of Use
 ----------------
+
 ###### 1. Introduction  
 Welcome! By accessing, using or visiting this website (the “Website”) and/or the related interfaces or mobile applications we may offer (the “Services”), you agree to be bound by these terms and conditions (the “Terms”) and our Privacy Policy. The Services are provided by Elo Entertainment Inc (the “Company”).
 
@@ -28,6 +29,7 @@ You are prohibited from violating or attempting to violate the security of the W
 You may not use any scraper, crawler, spider, robot or other automated means of any kind to access or copy data on the Website, deep link to any feature or Content on the Website, or bypass our robot exclusion headers or other measures we may use to prevent or restrict access to the Website. You may not modify, adapt, sublicense, translate, sell, reverse engineer, decompile or disassemble any portion of the Website. You may not post or transmit any information or software that contains a virus, worm, time bomb, Trojan horse, spyware, adware, malware or other harmful, malicious or disruptive component; or tamper with or damage the Website in any way whatsoever, including but not limited to by trespass, burdening network capacity, repeatedly posting the same or similar content, or uploading or otherwise disseminating viruses, worms, spyware, adware or other malicious code.
 
 Violations of system or network security may result in civil or criminal liability. The Company will investigate occurrences that may involve such violations and may involve, and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations. You agree not to use any device, software or routine to interfere or attempt to interfere with the proper working of this Website or any activity being conducted on this Website.
+
 ###### 6. Indemnification
 YOU AGREE TO INDEMNIFY, DEFEND AND HOLD HARMLESS THE COMPANY AND ITS MEMBERS, MANAGERS, EMPLOYEES, REPRESENTATIVES, SUCCESSORS, AGENTS, PARTNERS, CLIENTS, SPONSORS AND CONTRACTORS, FROM AND AGAINST ANY AND ALL LOSS, LIABILITY, CLAIMS, DEMANDS, DAMAGES, COSTS OR OTHER EXPENSES (INCLUDING REASONABLE LEGAL FEES) ASSERTED BY ANY THIRD PARTY DUE TO OR ARISING DIRECTLY OR INDIRECTLY OUT OF OR FROM (A) YOUR VIOLATION OF THESE TERMS OF USE, (B) YOUR VIOLATION OF ANY RIGHTS OF ANOTHER USER OF THE SERVICES, AND/OR (C) YOUR USE OR ACCESS OF THE WEBSITE AND/OR ACTIVITIES IN CONNECTION WITH THE SERVICES OR WEBSITE-RELATED SERVICES.
 
@@ -38,6 +40,7 @@ If you register or sign up to receive alerts, emails, or any other communication
 Because the data used by the Company to provide the Services is derived from access to a third-party application programming interface (“API”), the Company expressly disclaims any and all warranties and guarantees regarding the accuracy of the data received from the API (the “Data”). The Company formats and presents the Data as part of the Services, but otherwise does not generate, create, compile, verify the accuracy of, or otherwise produce the Data. The Company further disclaims all warranties and guarantees as to the availability of the Services if the API or the Data become inaccessible or are otherwise unavailable to the Company.
 
 It is possible that the Website could include typographical errors, inaccuracies or other errors, and that unauthorized additions, deletions and alterations could be made to the Website by third parties. In the event that an inaccuracy arises, please inform the Company by emailing support@elo.io so that it can be corrected. Information contained on the Website may be changed or updated without notice.
+
 ###### 9. Links to third party websites
 The Website may contain links to other third-party websites that are not under the control of the Company (each a “Linked Website” and together the “Linked Websites”). The Company disclaims any and all responsibility for the contents of any Linked Website, including without limitation any link contained in a Linked Website, or any changes or updates to a Linked Website. The Company is not responsible for webcasting or any other form of transmission received from any Linked Website. The Company is providing these links, if any, to you only as a convenience, and the inclusion of any link does not necessarily imply endorsement or representations by the Company of the Website or any association with its operators. You are encouraged to review any privacy policy or terms of service posted on the Linked Websites.
 
@@ -53,6 +56,7 @@ By agreeing to these Terms of Use, you warrant to the Company that you will not 
 + Posting or transmitting material that violates or infringes upon the rights of a third party, including but not limited to copyright, trademark, intellectual property rights, rights of privacy or publicity, real property rights, or rights in confidential information;
 + Violating or attempting to violate the security or functionality of the Website as discussed above; or
 + Violating or attempting to violate any part of these Terms of Use or applicable law.
+
 ###### 11. User submissions through the website
 Original content provided on the site is licensed under Creative Commons Attribution-NonCommercial 4.0 International. Content uploaded by users, such as game cover images, are copyright of their respective owners; the same applies to content that is linked to, like YouTube videos and external images or documents.
 
